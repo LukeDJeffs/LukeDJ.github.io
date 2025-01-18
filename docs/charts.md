@@ -1,41 +1,18 @@
 ---
-title: Charts
+title: Team Organization
+tags:
+- tag1
+- tag2
 ---
 
+## Team Charter Statment
 
-``` mermaid
-graph LR
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
-```
+We are Team 302 and our goal for this class is to achieve a better understanding of industry grade resources and tools, working in a professional environment with a team, and how to develop quality systems that satisfy userneeds and can compete in a market.
 
-``` mermaid
-sequenceDiagram
-  autonumber
-  Alice->>John: Hello John, how are you?
-  loop Healthcheck
-      John->>John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts!
-  John-->>Alice: Great!
-  John->>Bob: How about you?
-  Bob-->>John: Jolly good!
-```
+To come to a consensus for this statment, we wanted to make sure that we were all on the same page about what we wanted to gain for this class and the project. We communicated our goals as individuals and shared them with each other as a group so that we could see what we have in common. We then came to the conclusion we have above that highlights our want to improve our knowledge and skills in our respective fields. 
 
+## Product Mission Statment
 
-``` mermaid
-stateDiagram-v2
-  state fork_state <<fork>>
-    [*] --> fork_state
-    fork_state --> State2
-    fork_state --> State3
+To provide a easy to use and affordable product to our customers to aid them in their day to day lives.
 
-    state join_state <<join>>
-    State2 --> join_state
-    State3 --> join_state
-    join_state --> State4
-    State4 --> [*]
-```
+For this statment, we applied the same method we used for the charter to come up with a general consensus of what everyone in our group wants our product to be able to solve. We took the time to compare our individual ideas and pick the ones we value the most for our product. In the end, the general purpose we want for our product that most anyone can figure out how to use and purchase while providing a solution to a problem to a daily problem.
