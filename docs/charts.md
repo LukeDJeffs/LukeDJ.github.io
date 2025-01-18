@@ -15,4 +15,4 @@ To come to a consensus for this statment, we wanted to make sure that we were al
 
 To provide a easy to use and affordable product to our customers to aid them in their day to day lives.
 
-For this statment, we applied the same method we used for the charter to come up with a general consensus of what everyone in our group wants our product to be able to solve. We took the time to compare our individual ideas and pick the ones we value the most for our product. In the end, the general purpose we want for our product that most anyone can figure out how to use and purchase while providing a solution to a problem to a daily problem.
+For this statment, we applied the same method we used for the charter to come up with a general consensus of what everyone in our group wants our product to be able to solve. We took the time to compare our individual ideas and pick the ones we value the most for our product. In the end, the general purpose we want for our product that most anyone can figure out how to use and purchase while providing a solution to a daily problem.
