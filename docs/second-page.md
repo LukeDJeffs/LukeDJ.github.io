@@ -5,6 +5,7 @@ title: Ideation and Concept Generation
 ## Our Goal
 
 The goal of our exhibit is to provide an enjoyable and informative experience about a particular concept from the STEM field. Through this exhibit, users will be able to directly interact with the display to change or show an observable scientific phenomenon. To be both entertaining and memorable, this exhibit will be designed to be a simple game where the user will be able to see how they can manipulate the display to get closer to a specified goal.
+
 Our target audience for this exhibit will primarily be for students in the grades K-12. This exhibit will be tailored to the particular students that are interested in any category of STEM related subjects. It could also interest those with a musical background and show them the overlaps between auditorial concepts and STEM concepts.
 
 ## Brainstorm Session
