@@ -12,7 +12,7 @@ tags:
 
 ## Communication Process Diagram
 
-
+![Sequence Diagram of Team Communication drawio](https://github.com/user-attachments/assets/0f1df4b9-7852-4607-a811-f4be9948c96e)
 
 ## Messaging Structure
 
