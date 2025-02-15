@@ -12,7 +12,7 @@ tags:
 
 ## Communication Process Diagram
 
-![image](https://github.com/ASU-EGR314-2025-S-302/EGR314-2025-S-302/blob/main/Sequence%20Diagram%20of%20Team%20Communication.drawio.png)
+
 
 ## Messaging Structure
 
