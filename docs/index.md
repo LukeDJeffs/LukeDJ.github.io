@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 
-## Hello, we are Team 304
+## Hello, we are Team 302
 
 - Date
 
@@ -22,7 +22,9 @@ tags:
 - Professor
 
     Kevin Nichols
-  
-- Members
 
-    Jack Francis, Shane Duttenhefner, Luke Jeffs, Ian Huerta Ramirez
+**Members** | **Individual Website**
+------------|-----------------------
+Jack Francis | put link here
+Shane Duttenhefner | ![link](https://shaneduttenhefner.github.io/)
+Luke Jeffs | put link here
