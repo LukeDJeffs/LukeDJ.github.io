@@ -36,3 +36,4 @@ The features highlighted in our design include concepts such as value recording 
 Within a few weeks of our initial design, one of our team members was unfortunately removed from the class, leaving us with only three members. Due to this, we decided to lessen the scope of our project while keeping in mind the same principles we used for the old design. Our new design is mostly similar, except instead of doing a pitch/frequency game, we are changing it to a pressure gauge game, showcasing Boyle's Law as our STEM concept. (Luke Continue)
 
 # Redesign Concept Sketch
+![New Concept Ideation drawio](https://github.com/user-attachments/assets/99eddc7f-36d3-4fdf-9388-6ac86ba80f0d)
