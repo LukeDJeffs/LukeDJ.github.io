@@ -16,10 +16,12 @@ This block diagram defines the general flow of data throughout the subsystem, wh
 
 ![Sequence Diagram of Team Communication drawio](https://github.com/user-attachments/assets/0f1df4b9-7852-4607-a811-f4be9948c96e)
 
-
+This diagram defines further the flow of the game, from the start where the OLED system is turned on, all the way to when the pushbutton activates the victory screen and restarts the game. The looping lines reflect the daisy chain connections, as Luke's messages go to Shane's then go to Jack's and then loop back around (if necessary). The initial commands set up the game while the looped commands represent actual game play.
 
 ## Messaging Structure
 
 ![one](https://github.com/user-attachments/assets/5747d8c7-5825-4226-8d9b-f47d46d050e7)
 
 ![two](https://github.com/user-attachments/assets/7c5601f4-95c1-4e4a-a815-621dbcf16888)
+
+These are the messages that will be sent across UART and the daisy chain to each individual subsystem, defined by number and their content. There are multiple types of messages, including the variable pressure sensor value which is designated to 16 bits, then static values indicating a singular state which are only designated to 8 bits. These are the messages that will be sent in the process represented by the communication diagram above.
