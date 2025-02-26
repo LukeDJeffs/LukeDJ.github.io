@@ -24,7 +24,7 @@ Luke Jeffs | Text | Discord | Google Meet
 
 ###Communication Procedure
 
-Our team will primarily communicate through text and will use either Discord or Google Meet for calling one another in order to start meetings or discuss complicated topics. For instructor correspondence, the team will all share equal responsibility so e can all be on the same page and aware of any new information.
+Our team will primarily communicate through text and will use either Discord or Google Meet for calling one another in order to start meetings or discuss complicated topics. For instructor correspondence, the team will all share equal responsibility so we can all be on the same page and aware of any new information.
 
 ###Meeting Schedule
 
@@ -36,7 +36,7 @@ Our group will meet up in person or in call to work on projects during the follo
 
 ### Meeting Coordination
 
-We will remind ourselves of meetings the day of by texting eachother in advance. If we need to change or add meeting times by communicating with one another about ideal times and try to come to an agreed time. For now, our preffered format for meeting is virtual, but as we move to making our physical boards, we may prefer face to face. Another procedure we feel is necessary is that each member should make sure to inform the others about missing meetings as earlier as possible.
+We will remind ourselves of meetings the day of by texting each other in advance. If we need to change or add meeting times by communicating with one another about ideal times and try to come to an agreed time. For now, our preferred format for meeting is virtual, but as we move to making our physical boards, we may prefer face to face. Another procedure we feel is necessary is that each member should make sure to inform the others about missing meetings as earlier as possible.
 
 ###Roles and Responsibilities
 
@@ -48,7 +48,7 @@ Project Monitor | Luke Jeffs | Tracks the team's progress relative to the projec
 
 ### Team Coordination and Accountability
 
-We will ensure that assignments are submitted on time with approal from every member by staying in constent communication about where we are in the project and informing eachother of our individual contributions or edits. We will ask eachother about what we know and what we struggle with for each assignment and if a member lacks the knowledge or skill for an assignment, the ohers will do their best to help and if they cannot, we will seek external aid via proffessors, other classmates, or the internet. To make sure everyone understands and acts upon the design review feedback, we will each ake the time to read the provided feedback and talk to eachother about how we can all improve in any proble areas. When addressing missed contribution or  recognizing underperformance, the team will solve this by talking to the underperforming member and see what the issueis and see if we can come to an understanding to improve eachother's teamwork.
+We will ensure that assignments are submitted on time with approal from every member by staying in constent communication about where we are in the project and informing eachother of our individual contributions or edits. We will ask eachother about what we know and what we struggle with for each assignment and if a member lacks the knowledge or skill for an assignment, the ohers will do their best to help and if they cannot, we will seek external aid via proffessors, other classmates, or the internet. To make sure everyone understands and acts upon the design review feedback, we will each ake the time to read the provided feedback and talk to eachother about how we can all improve in any proble areas. When addressing missed contribution or recognizing underperformance, the team will solve this by talking to the underperforming member and see what the issue is and see if we can come to an understanding to improve eachother's teamwork.
 
 ### Conflict Recognition and Resolution
 
