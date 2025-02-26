@@ -33,7 +33,7 @@ The features highlighted in our design include concepts such as value recording 
 
 ## Redesign
 
-Within a few weeks of our initial design, one of our team members was unfortunately removed from the class, leaving us with only three members. Due to this, we decided to lessen the scope of our project while keeping in mind the same principles we used for the old design. Our new design is mostly similar, except instead of doing a pitch/frequency game, we are changing it to a pressure gauge game, showcasing Boyle's Law as our STEM concept. (Luke Continue)
+Within a few weeks of our initial design, one of our team members was unfortunately removed from the class, leaving us with only three members. Due to this, we decided to lessen the scope of our project while keeping in mind the same principles we used for the old design. Our new design is mostly similar, except instead of doing a pitch/frequency game, we are changing it to a pressure gauge game, showcasing Boyle's Law as our STEM concept. The user will operate the plunger of a plastic syringe connected to an enclosed chamber which surrounds the pressure sensor. The board holding this sensor will set a goal pressure that the user will seek to reach by use of the syringe. An attached LED display will notify the user when they have reached the goal, and the game will stop. This design should be operable by a vast majority of users, and the quick, simple design will demonstrate Boyle's law.
 
 # Redesign Concept Sketch
 ![New Concept Ideation drawio](https://github.com/user-attachments/assets/99eddc7f-36d3-4fdf-9388-6ac86ba80f0d)
