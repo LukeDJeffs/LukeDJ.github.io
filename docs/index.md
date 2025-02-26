@@ -11,7 +11,7 @@ Welcome to our exhibit's website. Here you'll be able to see what we have been w
 ## The Team
 **Members** | **Individual Website**
 ------------|-----------------------
-Jack Francis | [Motor Driver/Actuator](https://github.com/jmfran17/Jack_Datasheet.github.io)
+Jack Francis | [Motor Driver/Actuator](https://jmfran17.github.io/Jack_Datasheet.github.io/)
 Shane Duttenhefner | [OLED Display](https://shaneduttenhefner.github.io/)
 Luke Jeffs | put link here
 
