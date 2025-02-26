@@ -8,7 +8,7 @@ tags:
 
 ## Block Diagram
 
-![Full Team Blocks drawio](https://github.com/user-attachments/assets/1d674692-ced7-4766-9d91-397a9945407d)
+![Full Team Blocks drawio](https://github.com/user-attachments/assets/6a1368a0-35ca-4a03-a0ee-dbbe892dc35b)
 
 ## Communication Process Diagram
 
