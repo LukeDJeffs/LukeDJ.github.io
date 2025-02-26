@@ -30,3 +30,7 @@ The features highlighted in our design include concepts such as value recording 
 ## Presentation
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/B_vrIuG8R5E" title="Team302" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Redesign
+
+Within a few weeks of our initial design, one of our team members was unfortunately removed from the class, leaving us with only three members. Due to this, we decided to lessen the scope of our project while keeping in mind the same principles we used for the old design. Our new design is mostly similar, except instead of doing a pitch/frequency game, we are changing it to a pressure gauge game, showcasing Boyle's Law as our STEM concept. (Luke Continue)
