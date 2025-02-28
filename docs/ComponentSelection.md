@@ -1,7 +1,7 @@
 ---
 title: Component Selection
 ---
-
+Included pictures represent selected components
 ## PIC
 ![PIC](https://github.com/user-attachments/assets/be4c6f78-6222-4529-bc9d-f26b3ab9f0c8)
 
