@@ -14,6 +14,7 @@ Included pictures represent selected components
 I don't need a large number of pins for the sensor subsystem, and being able to work with the same layout as labs in class is a big advantage. Hence I chose the PIC1827Q10-I/SO
 ## Pressure Sensor
 ![Pressure Sensor](https://github.com/user-attachments/assets/602c4c56-786e-4a00-8b41-50bdfd4aa92e)
+
 | Sensor | Pros | Cons |
 |--------|------|------|
 |5525DSO-SB005GS|Soldering leads|Minimal Datasheet|
