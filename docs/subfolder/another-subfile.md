@@ -1,5 +1,6 @@
 ---
-title: This is a secondary sub page
+title: Bill of Materials
 ---
 
-Things to discuss
+![image](https://github.com/user-attachments/assets/432c0b44-ed19-4ca5-b86f-da02f1755ce3)
+
